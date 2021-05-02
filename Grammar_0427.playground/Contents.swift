@@ -15,5 +15,5 @@ print(newString)
 let endLetter = greeting[greeting.index(before: greeting.endIndex)]
 print(endLetter)
 
-let letter = greeting[greeting.index(before: greeting.endIndex]]
-print(letter)
+//greeting.insert("!!", at: greeting.index(before: greeting.))
+
